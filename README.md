@@ -10,8 +10,9 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4959c70e33f7bf5f31ab5cc7698605b834a448181164d8cc2aad1c649639735/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c6174"><img src="https://camo.githubusercontent.com/a4959c70e33f7bf5f31ab5cc7698605b834a448181164d8cc2aad1c649639735/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c6174" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&amp;logoColor=white&amp;style=flat" style="max-width: 100%;"></a></p>
 
 <p dir="auto">👯 <strong>I’m collaborating on</strong>:<br>
-<a href="https://videoremixes.netlify.app/trends" rel="nofollow">Video Remixes</a><br>
-<a href="https://wfacturas.com/folios" rel="nofollow">WFacturas</a><br>
+<a href="https://videoremixes.netlify.app/" rel="nofollow">Video Remixes</a><br>
+<a href="https://wfacturas.com/" rel="nofollow">WFacturas</a><br>
+<a href="https://wmobil.mx/" rel="nofollow">WMobil</a><br>
 
 📫 Reach me at the email **rm09961219@gmail.com**
 
