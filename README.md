@@ -73,3 +73,6 @@ Here are some of the best-selling projects I have contributed to:
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a> 
 </p>
+
+### 🎓 **Some of my certificates**
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-162d016a-dc86-44d5-9fc2-aba33ee26ef4.jpg"/>
